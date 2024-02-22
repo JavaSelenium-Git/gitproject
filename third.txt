@@ -5,3 +5,6 @@ Pen Pencil
 Notebook
 laptop
 desktop
+Iphone
+Ipad
+
